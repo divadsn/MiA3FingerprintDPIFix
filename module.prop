@@ -3,4 +3,4 @@ name=Mi A3 Fingerprint DPI Fix
 version=v1.0
 versionCode=1
 author=David Sn (@divadsn)
-description=Stupid module to fix fingerprint resetting DPI to default value in system props.
+description=Stupid module to fix fingerprint resetting DPI to default when unlocking.
